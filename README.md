@@ -6,7 +6,7 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 
 # 🏃🏾 Currently working on ...
-- **DiGi Market** [LINK](di-gi-market.vercel.app)
+- [**DiGi Market**](di-gi-market.vercel.app)
   🛒Full-stack website project by Next.js framwork. A digital marketplace where you can be a customer and shop. Find your products and buy it here
 
 # 🌱 Website Projects ...
@@ -14,6 +14,7 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 - [Survive The Tiger](https://tiger-quiz.vercel.app/) : This is an interactive game from TypeScript with React components. Player could play this 1-min game and track their ending progress store in localStorage.
 - [Witch's Garden](https://www.youtube.com/watch?v=jiAvBtDjQqI&t=149s) : 2D indie game implemented by pure Java. Using OOP programming, Thread, interface etc.
 - [CPmon](https://github.com/neennera/CPmon) : Turn-base game in web appication project. Code in vanila JavaScript, HTML ans CSS for frontend. Use mongoDB for backend.
+  
 [2023]
 - [To do List](https://todolist-learning-progect.vercel.app/) : This project can create, edit, and delete tasks with a progress bar for tracking. I used React with useState and useEffect 
 
@@ -25,4 +26,5 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 # 📫 Contact Me ...
 gmail : neennera@gmail.com
+
 linkedin : [click here](https://www.linkedin.com/in/naphat-serirak/)
