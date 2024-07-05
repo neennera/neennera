@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, 👋
 
 <!--
 **neennera/neennera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🏃🏾 Currently working on ...
+## DiGi Market
+
+## ****
+
+# 🌱 Projects ...
+- Survive The Tiger
+
+# 😄 Experience ...
+- Inner of IT department [@ESC-chula](https://github.com/esc-chula) (CU Student Committee)
+- Co-founder of [The Blitz](https://www.facebook.com/xcodeblitz), Online tutoring busines
+- JWC13 IMA team (frontend dev)
+- Head of Integral Bee
+
+# 📫 Contact Me ...
+gmail : neennera@gmail.com
+linkedin : [click here](https://www.linkedin.com/in/naphat-serirak/)
