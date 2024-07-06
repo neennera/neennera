@@ -6,7 +6,7 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 
 # 🏃🏾 Currently working on ...
-- [**DiGi Market**](di-gi-market.vercel.app)
+- [**DiGi Market**](https://di-gi-market.vercel.app/)
   🛒Full-stack website project by Next.js framwork. A digital marketplace where you can be a customer and shop. Find your products and buy it here
 
 # 🌱 Website Projects ...
