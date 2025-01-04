@@ -6,11 +6,14 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 
 # 🏃🏾 Currently working on ...
+- [**TinkerBread**](https://github.com/LazyRipple/TinkerBread)
+  🎄Decorate friends' gingerbreads in 3D. Send a love through the Christmas. Using Next.js, React Three Fiber, and PostgreSQL.
 - [**DiGi Market**](https://di-gi-market.vercel.app/)
   🛒Full-stack website project by Next.js framwork. A digital marketplace where you can be a customer and shop. Find your products and buy it here
 
 # 🌱 Website Projects ...
-[2024]
+[2024] 
+- Project Manager and Backend Developer of Larngear 24th Camp. Dev on [Gem Of Your Soul](https://gemofyoursoul.larngear.org/), Larngear Passport Website.
 - Frontend Development of [JWC13's landing](https://13.jwc.in.th), [JWC13's frame website](https://frame.jwc.in.th), [JWC13's quiz](https://quiz.jwc.in.th)
 - [Survive The Tiger](https://tiger-quiz.vercel.app/) : This is an interactive game from TypeScript with React components. Player could play this 1-min game and track their ending progress store in localStorage.
 - [Witch's Garden](https://www.youtube.com/watch?v=jiAvBtDjQqI&t=149s) : 2D indie game implemented by pure Java. Using OOP programming, Thread, interface etc.
