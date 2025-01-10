@@ -6,7 +6,7 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 
 # 🏃🏾 Currently working on ...
-- [**TinkerBread**](https://github.com/LazyRipple/TinkerBread)
+- [**TinkerBread**](https://neennera.medium.com/tinkerbread-projects-864a46971d26)
   🎄Decorate friends' gingerbreads in 3D. Send a love through the Christmas. Using Next.js, React Three Fiber, and PostgreSQL.
 - [**DiGi Market**](https://di-gi-market.vercel.app/)
   🛒Full-stack website project by Next.js framwork. A digital marketplace where you can be a customer and shop. Find your products and buy it here
