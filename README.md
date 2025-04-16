@@ -6,7 +6,7 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 
 # ✨ Pround To Present !
-- [**SandCastle (เจดีย์ทราย)**](https://sandcastle-delta.vercel.app/)
+- [**SandCastle (เจดีย์ทราย)**](https://neennera.medium.com/sandcastle-website-for-songkran-festival-in-just-5-days-99e445a2aafd)
   🌞 This Songkran, let's decorate a sand pagoda! Choose your favorite "sand pile" & your Thai style items. Using sveltekit and mongoDB
 - [**TinkerBread**](https://neennera.medium.com/tinkerbread-projects-864a46971d26)
   🎄Decorate friends' gingerbreads in 3D. Send a love through the Christmas. Using Next.js, React Three Fiber, and PostgreSQL.
