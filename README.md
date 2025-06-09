@@ -7,17 +7,17 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 # ✨ Pround To Present !
 - [**TicketLemon**](https://github.com/neennera/ticketlemon)
-  🍋 Fullstack website for concert ticket reserve. Focus to learn redis, express.js.
-- [**LMS System for university camp**](https://neennera.medium.com/lms-system-for-university-academic-camp-bc7ff8bb601c)
-  🎓 Head IT, Built FE18 Camp LMS (Learning Management System) using Next.js. This website was used by 625 people. 
+  🍋 Fullstack website for concert ticket reserve. Focus to learn Redis, Express.js.
+- [**LMS System**](https://neennera.medium.com/lms-system-for-university-academic-camp-bc7ff8bb601c)
+  🎓 Head IT, Built FE18 Camp Learning Management System, using Next.js. Website used by 625 people. 
 - [**SandCastle (เจดีย์ทราย)**](https://neennera.medium.com/sandcastle-website-for-songkran-festival-in-just-5-days-99e445a2aafd)
-  🌞 Decorate a sand castle! Using sveltekit and mongoDB. Develop REST API , design database, integrate & decorate frontend. 
+  🌞 Use sveltekit and MongoDB. Develop REST API. integrate API to frontend. Decorate a sand castle! 
 - [**TinkerBread**](https://neennera.medium.com/tinkerbread-projects-864a46971d26)
   🎄Decorate friends' gingerbreads in 3D. Using Next.js, React Three Fiber, and PostgreSQL.
 - [**DiGi Market**](https://di-gi-market.vercel.app/)
-  🛒Full-stack website project by Next.j A digital marketplace where you can be a customer and shop. 
+  🛒Full-stack website project by Next.j A digital marketplace for digital product. 
 - [**somchai's funural (งานศพของสมชาย)**](https://somchai-funeral.vercel.app/)
-  ⚱️ 3D web experience for funural. Built with Three.js
+  ⚱️ 3D web experience for funural. Built with Three.js.
 
 # 🌱 Website Projects ...
 [2024] 
