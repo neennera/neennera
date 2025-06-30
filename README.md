@@ -8,9 +8,9 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 # ✨ Pround To Present !
 - [**LMS System**](https://neennera.medium.com/lms-system-for-university-academic-camp-bc7ff8bb601c)
   🎓 Head IT, Built FE18 Camp Learning Management System, using Next.js. Website used by 625 people.
-- [Elysia-Tea=Shop](https://github.com/neennera/elysia-tea-shop)
+- [Elysia-Tea-Shop](https://github.com/neennera/elysia-tea-shop)
   ☕ RESTful API by Elysia with Auth, JWT token. Mocking tea shop CRUD
-- [**TicketLemon**](https://github.com/neennera/ticketlemon)
+- [**TicketLemon**](https://neennera.medium.com/manage-caching-with-redis-in-concert-ticket-website-b8a4b277a31b)
   🍋 Fullstack website for concert ticket reserve. Focus to learn Redis, Express.js.
 - [**SandCastle (เจดีย์ทราย)**](https://neennera.medium.com/sandcastle-website-for-songkran-festival-in-just-5-days-99e445a2aafd)
   🌞 Use sveltekit and MongoDB. Develop REST API. integrate API to frontend. Decorate a sand castle! 
