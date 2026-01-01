@@ -2,26 +2,30 @@
 
 I'm Neen, Naphat Serirak ;)
 
-See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
+Project manager & Full stack web developer 
+
+linkedin : [click here](https://www.linkedin.com/in/naphat-serirak/)
 
 
 # ✨ Pround To Present !
 - [**LMS System**](https://neennera.medium.com/lms-system-for-university-academic-camp-bc7ff8bb601c)
   🎓 Head IT, Built FE18 Camp Learning Management System, using Next.js. Website used by 625 people.
-- [Elysia-Tea-Shop](https://github.com/neennera/elysia-tea-shop)
-  ☕ RESTful API by Elysia with Auth, JWT token. Mocking tea shop CRUD
-- [**TicketLemon**](https://neennera.medium.com/manage-caching-with-redis-in-concert-ticket-website-b8a4b277a31b)
-  🍋 Fullstack website for concert ticket reserve. Focus to learn Redis, Express.js.
-- [**SandCastle (เจดีย์ทราย)**](https://neennera.medium.com/sandcastle-website-for-songkran-festival-in-just-5-days-99e445a2aafd)
-  🌞 Use sveltekit and MongoDB. Develop REST API. integrate API to frontend. Decorate a sand castle! 
-- [**TinkerBread**](https://neennera.medium.com/tinkerbread-projects-864a46971d26)
-  🎄Decorate friends' gingerbreads in 3D. Using Next.js, React Three Fiber, and PostgreSQL.
-- [**DiGi Market**](https://di-gi-market.vercel.app/)
-  🛒Full-stack website project by Next.j A digital marketplace for digital product. 
-- [**somchai's funural (งานศพของสมชาย)**](https://somchai-funeral.vercel.app/)
-  ⚱️ 3D web experience for funural. Built with Three.js.
+- [**DooDoung**](https://neennera.medium.com/doodoung-sprint-1-f2245dfdfefb) Full stack developer and project manager of 10-member team. Using Next.js and Nest.js.
+- [**FreshMenFest**](https://www.instagram.com/freshmenfest2025/) Project Manager of Chulalongkorn university's freshmen website (6,000 users). ISD club.
+- Software Engineer Intern at LooLoo technology
+- Project Manager of ICC case competitive website.
+
 
 # 🌱 Website Projects ...
+[2025]
+- [Elysia-Tea-Shop](https://github.com/neennera/elysia-tea-shop) RESTful API by Elysia with Auth, JWT token. Mocking tea shop CRUD
+- [**TicketLemon**](https://neennera.medium.com/manage-caching-with-redis-in-concert-ticket-website-b8a4b277a31b) Fullstack website for concert ticket reserve. Focus to learn Redis, Express.js.
+- [**SandCastle (เจดีย์ทราย)**](https://neennera.medium.com/sandcastle-website-for-songkran-festival-in-just-5-days-99e445a2aafd) Use sveltekit and MongoDB. Develop REST API. integrate API to frontend. Decorate a sand castle!
+- [**TinkerBread**](https://neennera.medium.com/tinkerbread-projects-864a46971d26) Decorate friends' gingerbreads in 3D. Using Next.js, React Three Fiber, and PostgreSQL.
+- [**DiGi Market**](https://di-gi-market.vercel.app/) Full-stack website project by Next.j A digital marketplace for digital product. 
+- [**somchai's funural (งานศพของสมชาย)**](https://somchai-funeral.vercel.app/) 3D web experience for funural. Built with Three.js.
+
+
 [2024] 
 - Head IT of FE camp 2025, manage 24 members team, delivered LMS website. [**LMS System for university camp**](https://neennera.medium.com/lms-system-for-university-academic-camp-bc7ff8bb601c)
 - Project Manager and Backend Developer of Larngear 24th Camp. Dev on [Gem Of Your Soul](https://gemofyoursoul.larngear.org/), Larngear Passport Website.
@@ -41,5 +45,3 @@ See my portfolio website [HERE✨](https://naphat-portfolio.vercel.app/)
 
 # 📫 Contact Me ...
 gmail : neennera@gmail.com
-
-linkedin : [click here](https://www.linkedin.com/in/naphat-serirak/)
