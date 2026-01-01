@@ -12,8 +12,8 @@ linkedin : [click here](https://www.linkedin.com/in/naphat-serirak/)
   🎓 Head IT, Built FE18 Camp Learning Management System, using Next.js. Website used by 625 people.
 - [**DooDoung**](https://neennera.medium.com/doodoung-sprint-1-f2245dfdfefb) Full stack developer and project manager of 10-member team. Using Next.js and Nest.js.
 - [**FreshMenFest**](https://www.instagram.com/freshmenfest2025/) Project Manager of Chulalongkorn university's freshmen website (6,000 users). ISD club.
-- Software Engineer Intern at LooLoo technology
-- Project Manager of ICC case competitive website.
+- Competitive Programming Tutor at [**pixelmath**](https://www.pixelmathschool.com/th)
+- Software Engineer Intern at LooLoo technology, June-July 2025
 
 
 # 🌱 Website Projects ...
@@ -24,7 +24,7 @@ linkedin : [click here](https://www.linkedin.com/in/naphat-serirak/)
 - [**TinkerBread**](https://neennera.medium.com/tinkerbread-projects-864a46971d26) Decorate friends' gingerbreads in 3D. Using Next.js, React Three Fiber, and PostgreSQL.
 - [**DiGi Market**](https://di-gi-market.vercel.app/) Full-stack website project by Next.j A digital marketplace for digital product. 
 - [**somchai's funural (งานศพของสมชาย)**](https://somchai-funeral.vercel.app/) 3D web experience for funural. Built with Three.js.
-
+- Project Manager of ICC case competitive website.
 
 [2024] 
 - Head IT of FE camp 2025, manage 24 members team, delivered LMS website. [**LMS System for university camp**](https://neennera.medium.com/lms-system-for-university-academic-camp-bc7ff8bb601c)
